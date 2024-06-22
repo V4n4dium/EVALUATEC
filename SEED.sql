@@ -7,3 +7,5 @@ INSERT INTO Departamento (Nombre) VALUES ('Ciencias economico administrativas');
 INSERT INTO Departamento (Nombre) VALUES ('Estudios de posgrado e investigación');
 
 --MATERIAS
+INSERT INTO Materias (Nombre) VALUES ('nombre materia');
+
